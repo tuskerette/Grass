@@ -1,0 +1,57 @@
+body {
+  background-color: #AF9A0D;
+  font-family: Arial;
+  letter-spacing: 3px;
+}
+
+
+.grass {
+  background-color: #4D9C0C;
+  width: 4px;
+  height: 140px;
+  margin: 20px;
+  float: left;
+}
+
+h1 {
+  line-height: 0px;
+  color: #123B73;
+  font-size: 90px;
+  font-family: 'Cookie', cursive;
+  text-align: center;
+  letter-spacing: 2px;
+
+}
+
+.container {
+  width: 1600px;
+  margin: 0 auto;
+}
+
+#grassfield {
+  float: left;
+  padding-left: 10px;
+  overflow: scroll;
+}
+
+footer {
+  height: 30px;
+  font-size: 12px;
+  padding-top: 10px;
+  padding-left: 30px;
+
+}
+
+a {
+  color: #110F03;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.responsive_headline {
+  width: 100%;
+  display: inline;
+}
