@@ -6,7 +6,7 @@ $(document).ready(function() {
   // jQuery("#responsive_headline").fitText();
 
   var context = new AudioContext();
-  var brownNoise = context.createBrownNoise();
+  var brownNoise = context.createPinkNoise();
 
   // var brownLfo = context.createOscillator();
   // brownLfo.frequency.value = 0.01;
